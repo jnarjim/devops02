@@ -5,5 +5,5 @@ services:
     container_name: galeria
     image: jnarjim817/galeria:latest
     ports:
-      - 8080:5000
+      - 80:5000
     restart: always
