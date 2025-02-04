@@ -1,9 +1,9 @@
 h1 {
-    color: blue;
-    text-align: center;
-    border-bottom: 1px solid #000;
+    color: red;
+    text-align: right;
+    border-bottom: 4px solid #9c1b1b;
 }
 div {
     text-align: center;
-    
+
 }
